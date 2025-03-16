@@ -1,0 +1,17 @@
+<html>
+<head>
+</head>
+<body>
+<p> Section 1: </p>
+<ul>
+<li> Apple </li>
+<li>Orange</li>
+<li> Kiwi</li>
+<ul style="list-style-type:circle;">
+<li> Budget:$300</li>
+<li>Cost:$275</li>
+<li>Remaining:$25</li>
+</ul>
+
+</body>
+</html>
